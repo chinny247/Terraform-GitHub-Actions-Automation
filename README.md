@@ -1,3 +1,4 @@
 # Terraform-GitHub-Actions-Automation
 
-https://learn.hashicorp.com/tutorials/terraform/github-actions
+1. https://learn.hashicorp.com/tutorials/terraform/github-actions
+2. https://github.com/marketplace/actions/hashicorp-setup-terraform
